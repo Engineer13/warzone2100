@@ -9001,19 +9001,19 @@ msgstr "Рассвет, 4 апреля 2100 г."
 
 #: data/base/sequenceaudio/devastation.txa:18
 msgid "A New Beginning"
-msgstr "Новое начинание"
+msgstr "Новое Начинание"
 
 #: data/base/sequenceaudio/devastation.txt:1
 msgid "The NASDA system was developed to protect us. It was to be the ultimate nuclear deterrent. As it turned out, it was our executioner."
-msgstr "Система НАСДА была разработана, чтобы защищать нас. Она должна была быть концом ядерного сдерживания. Как оказалось, это был наш палач."
+msgstr "Система NASDA была рзработана, чтобы защитить нас. Она была самым совершенным оружием ядерного сдерживания. Как оказалось, это был наш палач."
 
 #: data/base/sequenceaudio/devastation.txt:3
 msgid "Reports said that NASDA developed a fault during a routine systems check. Don't believe it. Someone wanted it to take us out."
-msgstr "Сообщения говорят, что НАСДА виновата в ходе обычной проверки системы. Не верте этому. Кто-то хотел нас уничтожить."
+msgstr "В сообщениях говорилось, что в NASDA произошел сбой во время обычной системной проверки. Не верьте им. Кто-то хотел нас уничтожить."
 
 #: data/base/sequenceaudio/devastation.txt:5
 msgid "Those nukes were targeted on every major city around the world. NASDA was programmed to start the Collapse. When the counterstrikes launched, its laser defenses and anti-missile ground sites failed."
-msgstr "Те ядерные оружия были направлены на каждый крупный город мира. НАСДА был запрограммирован, чтобы начать коллапс. Когда контрудары были запущены, его лазерные обороны и противоракетные установки отказали в работе."
+msgstr "Боеголовки были нацелены на главные города мира. NASDA программировалась для начала Коллапса. Противоракетная оборона отказала."
 
 #: data/base/sequenceaudio/devastation.txt:7
 msgid "The world as we knew it ended..."
@@ -9021,27 +9021,27 @@ msgstr "Мир, который мы знали закончился..."
 
 #: data/base/sequenceaudio/devastation.txt:9
 msgid "The Nuclear Winter hit hard. Disease and famine claimed most of us who had survived the nuclear strikes. Wars over cans of dog food took even more."
-msgstr "Ядерная Зима ударила сильно. Болезни и голод требовали нас, кто выжил после атомного взрыва. Войны за банки корма для собак развивались все больше и больше."
+msgstr "Ударила ядерная зима. Болезни и голод забрали большинство из тех, кто пережил ядерные удары. Войны за собачьи консервы забрали еще больше."
 
 #: data/base/sequenceaudio/devastation.txt:11
 msgid "We'd fled Seattle early in '86. We'd heard that the Rocky Mountains were relatively rad-free."
-msgstr "Мы убежали в Сиаттл в начале '86. Мы слышали, что Роки Моунтаинс были относительно без радиусов."
+msgstr "Мы бежали из Сиэтла в начале 86 года. Мы слышали, что Скалистые горы были относительно не заражены радионуклидами."
 
 #: data/base/sequenceaudio/devastation.txt:13
 msgid "After fighting off bands of marauders we came across the base. Its personnel were dead. Killed by any one of a number of virulent diseases."
-msgstr "После борьбы с полосой мародеров мы столкнулись с базой. Его персонал были мертв. Убит кем-то из числа ифекционно-зараженных."
+msgstr "Ведя борьбу с группами мародеров, мы наткнулись на базу. Ее персонал был мертв. Убит одной из многих вирусных болезней."
 
 #: data/base/sequenceaudio/devastation.txt:15
 msgid "We cracked the doors, and cleared out the bodies inside."
-msgstr "Мы взломали двери, и очистили от тел  внутри."
+msgstr "Мы взломали двери и убрали тела внутри."
 
 #: data/base/sequenceaudio/devastation.txt:17
 msgid "We knew that things would never be the same again, but we were determined to build a new world out of the ruins. We rebuilt the landing pads and brought the old systems back on-line."
-msgstr "Мы знали, что вещи никогда не будут прежними, но мы были полны решимости построить новый мир из руин. Мы восстановили посадочные площадки и привели обратно старые системы в он-лайн."
+msgstr "Мы знали, многое не вернуть, но мы решили построить новый мир из руин. Мы восстановили посадочные площадки и запустили старые системы."
 
 #: data/base/sequenceaudio/devastation.txt:19
 msgid "We were finally ready to begin the Project."
-msgstr "В конце-концов мы готовы начать Проект."
+msgstr "Наконец мы были готовы начать Проект."
 
 #: data/base/sequenceaudio/outro.txt:1
 msgid "After many long months of struggle, we defeated NEXUS."
